@@ -9,9 +9,7 @@ const Header = () => {
   return (
     <HeaderContainer>
       <HeaderIconsContainer>
-        <IconButton type='button'>
-          <img src={showMoreIcon} alt='Show More Icon' />
-        </IconButton>
+        <div/>
         <Title>
           <Link style={{color: '#000', textDecoration: '#FFFF'}} to="/">
             Shoe's

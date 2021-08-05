@@ -4,11 +4,11 @@
             "id": 0,
             "brand": "Adiddas",
             "prodcutName": "Court Jam",
-            "colors": [ "Amarelo", "Azul", "Branco", "Cinza" ],
+            "colors": [ "Amarelo", "Azul", "Branco", "Cinza", "Preto" ],
             "price": "599.00",
             "principalImageUrl": "https://i.postimg.cc/ygnKP8RR/court-Jam-amarelo.jpg",
             "imagesUrl": [
-                { "colorName": "Amarelo", "url": "https://i.postimg.cc/ygnKP8RR/court-Jam-amarelo.jpg" },
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/court-Jam-preto.jpg" },
                 { "colorName": "Azul", "url": "https://i.postimg.cc/hhPcGVF1/court-Jam-azul.jpg" },
                 { "colorName": "Branco", "url": "https://i.postimg.cc/hQjB3R85/court-Jam-branco.jpg" },
                 { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/court-Jam-cinza.jpg" }
@@ -18,12 +18,12 @@
             "id": 1,
             "brand": "Adiddas",
             "prodcutName": "Game Court",
-            "colors": [ "Azul", "Branco", "Cinza", "Preto" ],
+            "colors": [ "Azul", "Branco", "Cinza", "Preto", "Rosa" ],
             "price": "299.00",
-            "principalImageUrl": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg",
+            "principalImageUrl": "https://i.postimg.cc/hhPcGVF1/court-Jam-azul.jpg",
             "imagesUrl": [
                 { "colorName": "Preto", "url": "https://i.postimg.cc/cK9TBqHH/game-Court-preto.jpg" },
-                { "colorName": "Azul", "url": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg" },
+                { "colorName": "Rosa", "url": "https://i.postimg.cc/Bj3hqckq/game-Court-rosa.jpg" },
                 { "colorName": "Branco", "url": "https://i.postimg.cc/tszB7nGF/game-Court-branco.jpg" },
                 { "colorName": "Cinza", "url": "https://i.postimg.cc/N9Z4Z1Rv/game-Court-cinza.jpg" }
             ]
@@ -31,16 +31,127 @@
         {
             "id": 2,
             "brand": "Adiddas",
-            "prodcutName": "Kaptir Super Azul",
-            "colors": [ "Azul", "Branco", "Laranja", "Preto", "Verde" ],
+            "prodcutName": "Kaptir Super",
+            "colors": [ "Azul", "Branco", "Preto e Laranja", "Preto", "Verde Limão" ],
             "price": "249.99",
             "principalImageUrl": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg",
             "imagesUrl": [
-                { "colorName": "Azul", "url": "https://i.postimg.cc/nCfzhCkF/kaptir-super-azul.jpg" },
-                { "colorName": "Branco", "url": "https://i.postimg.cc/jW2qFNsX/kaptir-super-branco-azul.jpg" },
-                { "colorName": "Laranja", "url": "https://i.postimg.cc/0zc2nZqj/kaptir-super-preto-laranja.jpg " },
-                { "colorName": "Preto", "url": "https://i.postimg.cc/SJLK2kTW/kaptir-super-preto.jpg" },
-                { "colorName": "Verde", "url": "https://i.postimg.cc/bZzw1WW4/kaptir-super-verde-limao.jpg" }
+                { "colorName": "Branco", "url": "https://i.postimg.cc/nCfzhCkF/kaptir-super-branco-azul.jpg" },
+                { "colorName": "Preto", "url": "https://i.postimg.cc/jW2qFNsX/kaptir-super-preto.jpg" },
+                { "colorName": "Preto e Laranja", "url": "https://i.postimg.cc/0zc2nZqj/kaptir-super-preto-laranja.jpg " },
+                { "colorName": "Verde Limão", "url": "https://i.postimg.cc/SJLK2kTW/kaptir-verde-e-limao.jpg" }
+            ]
+        },
+        {   
+            "id": 3,
+            "brand": "Adiddas",
+            "prodcutName": "NMD Runner R1",
+            "colors": [ "Preto", "Verde Água", "Vinho", "Cinza", "Bege" ],
+            "price": "600.00",
+            "principalImageUrl": "https://i.postimg.cc/hQjB3R85/nmd-runner-r1-vinho.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/nmd-runner-r1-preto.jpg" },
+                { "colorName": "Verde Agua", "url": "https://i.postimg.cc/hhPcGVF1/nmd-runner-r1-verde-agua.jpg" },
+                { "colorName": "Vinho", "url": "https://i.postimg.cc/hQjB3R85/nmd-runner-r1-vinho.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/nmd-runner-r1-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 4,
+            "brand": "Adiddas",
+            "prodcutName": "Run Falcon",
+            "colors": [ "Preto", "Branco", "Vermelho", "Cinza", "Azul" ],
+            "price": "300.00",
+            "principalImageUrl": "https://i.postimg.cc/hQjB3R85/run-falcon-vermelho.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/run-falcon-preto.jpg" },
+                { "colorName": "Branco", "url": "https://i.postimg.cc/hhPcGVF1/run-falcon-branco.jpg" },
+                { "colorName": "Vermelho", "url": "https://i.postimg.cc/hQjB3R85/run-falcon-vermelho.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/run-falcon-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 5,
+            "brand": "Adiddas",
+            "prodcutName": "Run Falcon",
+            "colors": [ "Preto", "Branco", "Vermelho", "Cinza", "Azul" ],
+            "price": "399.00",
+            "principalImageUrl": "https://i.postimg.cc/N9Z4Z1Rv/game-Court-cinza.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/run-falcon-preto.jpg" },
+                { "colorName": "Branco", "url": "https://i.postimg.cc/hhPcGVF1/run-falcon-branco.jpg" },
+                { "colorName": "Vermelho", "url": "https://i.postimg.cc/hQjB3R85/run-falcon-vermelho.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/run-falcon-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 6,
+            "brand": "Nike",
+            "prodcutName": "Air Force",
+            "colors": [ "Preto", "Branco", "Rosa", "Preto e Branco", "Azul" ],
+            "price": "499.00",
+            "principalImageUrl": "https://i.postimg.cc/hhPcGVF1/air-force-azul.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/air-force-preto.jpg" },
+                { "colorName": "Azul", "url": "https://i.postimg.cc/hhPcGVF1/air-force-azul.jpg" },
+                { "colorName": "Rosa", "url": "https://i.postimg.cc/hQjB3R85/run-falcon-rosa.jpg" },
+                { "colorName": "Preto e Branco", "url": "https://i.postimg.cc/rKDT1cwd/run-falcon-preto-branco.jpg" }
+            ]
+        },
+        {   
+            "id": 7,
+            "brand": "Nike",
+            "prodcutName": "Air Max 97",
+            "colors": [ "Preto", "Branco", "Cinza e Vermelho", "Cinza", "Rosa" ],
+            "price": "599.00",
+            "principalImageUrl": "https://i.postimg.cc/rKDT1cwd/air-max-97-cinza.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/air-max-97-preto.jpg" },
+                { "colorName": "Rosa", "url": "https://i.postimg.cc/hhPcGVF1/air-max-97-rosa.jpg" },
+                { "colorName": "Cinza e Vermelho", "url": "https://i.postimg.cc/hQjB3R85/air-max-97-cinza-vermelho.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/air-max-97-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 8,
+            "brand": "Nike",
+            "prodcutName": "Air Max 200",
+            "colors": [ "Preto", "Branco e Preto", "Azul", "Brown", "Cinza" ],
+            "price": "500.00",
+            "principalImageUrl": "https://i.postimg.cc/ygnKP8RR/air-max-200-brown.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/ygnKP8RR/air-max-200-preto.jpg" },
+                { "colorName": "Branco e Preto", "url": "https://i.postimg.cc/hhPcGVF1/air-max-200-preto-branco.jpg" },
+                { "colorName": "Azul", "url": "https://i.postimg.cc/hQjB3R85/air-max-200-multicolor.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/air-max-200-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 9,
+            "brand": "Nike",
+            "prodcutName": "Tan Jun",
+            "colors": [ "Preto", "Branco", "Azul", "Rosa", "Cinza" ],
+            "price": "299.00",
+            "principalImageUrl": "https://i.postimg.cc/hhPcGVF1/nike-tanjun-rosa.jpg",
+            "imagesUrl": [
+                { "colorName": "Branco", "url": "https://i.postimg.cc/ygnKP8RR/nike-tanjun-branco.jpg" },
+                { "colorName": "Rosa", "url": "https://i.postimg.cc/hhPcGVF1/nike-tanjun-rosa.jpg" },
+                { "colorName": "Azul", "url": "https://i.postimg.cc/hQjB3R85/nike-tanjun-azul.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/nike-tanjun-cinza.jpg" }
+            ]
+        },
+        {   
+            "id": 10,
+            "brand": "Nike",
+            "prodcutName": "Verona",
+            "colors": [ "Preto", "Branco", "Lilas", "Rosa", "Branco e Azul" ],
+            "price": "700.00",
+            "principalImageUrl": "https://i.postimg.cc/rKDT1cwd/verona-preto.jpg",
+            "imagesUrl": [
+                { "colorName": "Branco", "url": "https://i.postimg.cc/ygnKP8RR/verona-branco.jpg" },
+                { "colorName": "Rosa", "url": "https://i.postimg.cc/hhPcGVF1/verona-rosa.jpg" },
+                { "colorName": "Branco e Azul", "url": "https://i.postimg.cc/hQjB3R85/verona-branco-azul.jpg" },
+                { "colorName": "Preto", "url": "https://i.postimg.cc/rKDT1cwd/verona-preto.jpg" }
             ]
         }
     ]
