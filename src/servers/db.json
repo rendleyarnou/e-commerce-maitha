@@ -1,0 +1,47 @@
+{
+    "products": [
+        {   
+            "id": 0,
+            "brand": "Adiddas",
+            "prodcutName": "Court Jam",
+            "colors": [ "Amarelo", "Azul", "Branco", "Cinza" ],
+            "price": "599.00",
+            "principalImageUrl": "https://i.postimg.cc/ygnKP8RR/court-Jam-amarelo.jpg",
+            "imagesUrl": [
+                { "colorName": "Amarelo", "url": "https://i.postimg.cc/ygnKP8RR/court-Jam-amarelo.jpg" },
+                { "colorName": "Azul", "url": "https://i.postimg.cc/hhPcGVF1/court-Jam-azul.jpg" },
+                { "colorName": "Branco", "url": "https://i.postimg.cc/hQjB3R85/court-Jam-branco.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/rKDT1cwd/court-Jam-cinza.jpg" }
+            ]
+        },
+        {
+            "id": 1,
+            "brand": "Adiddas",
+            "prodcutName": "Game Court",
+            "colors": [ "Azul", "Branco", "Cinza", "Preto" ],
+            "price": "299.00",
+            "principalImageUrl": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg",
+            "imagesUrl": [
+                { "colorName": "Preto", "url": "https://i.postimg.cc/cK9TBqHH/game-Court-preto.jpg" },
+                { "colorName": "Azul", "url": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg" },
+                { "colorName": "Branco", "url": "https://i.postimg.cc/tszB7nGF/game-Court-branco.jpg" },
+                { "colorName": "Cinza", "url": "https://i.postimg.cc/N9Z4Z1Rv/game-Court-cinza.jpg" }
+            ]
+        },
+        {
+            "id": 2,
+            "brand": "Adiddas",
+            "prodcutName": "Kaptir Super Azul",
+            "colors": [ "Azul", "Branco", "Laranja", "Preto", "Verde" ],
+            "price": "249.99",
+            "principalImageUrl": "https://i.postimg.cc/Bj3hqckq/game-Court-azul.jpg",
+            "imagesUrl": [
+                { "colorName": "Azul", "url": "https://i.postimg.cc/nCfzhCkF/kaptir-super-azul.jpg" },
+                { "colorName": "Branco", "url": "https://i.postimg.cc/jW2qFNsX/kaptir-super-branco-azul.jpg" },
+                { "colorName": "Laranja", "url": "https://i.postimg.cc/0zc2nZqj/kaptir-super-preto-laranja.jpg " },
+                { "colorName": "Preto", "url": "https://i.postimg.cc/SJLK2kTW/kaptir-super-preto.jpg" },
+                { "colorName": "Verde", "url": "https://i.postimg.cc/bZzw1WW4/kaptir-super-verde-limao.jpg" }
+            ]
+        }
+    ]
+  }
